@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techsc0ut&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techsc0ut&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techsc0ut)](https://github.com/techsc0ut/github-readme-stats)
