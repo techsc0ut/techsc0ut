@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techsc0ut&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techsc0ut)](https://github.com/techsc0ut/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techsc0ut&layout=compact)](https://github.com/techsc0ut/github-readme-stats)
